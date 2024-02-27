@@ -24,7 +24,9 @@ export default [
     brand: "Apple",
     category: "smartphones",
     // thumbnail: "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-    images: ["./src/assets/Images/apple-iphone-x-new-1.jpg"],
+    images: [
+      "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-x-new-1.jpg",
+    ],
   },
   {
     id: 3,
