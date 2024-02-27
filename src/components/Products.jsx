@@ -10,7 +10,7 @@ export default [
     brand: "Apple",
     category: "smartphones",
     // thumbnail: "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
-    images: ["./src/assets/Images/iphone-9.jpg"],
+    images: ["https://media.materiel.net/r550/oproducts/AR201709130033_g2.jpg"],
   },
   {
     id: 2,
@@ -40,7 +40,9 @@ export default [
     brand: "Samsung",
     category: "smartphones",
     thumbnail: "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-    images: ["./src/assets/Images/universe-9.webp"],
+    images: [
+      "https://imageio.forbes.com/blogs-images/gordonkelly/files/2018/08/Screenshot-2018-08-10-at-03.58.50.jpg?height=474&width=711&fit=bounds",
+    ],
   },
   {
     id: 4,
@@ -53,7 +55,9 @@ export default [
     brand: "OPPO",
     category: "smartphones",
     thumbnail: "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-    images: ["./src/assets/Images/oppo.webp"],
+    images: [
+      "https://opsg-img-cdn-gl.heytapimg.com/epb/202207/07/hxwnSiSJ89urUqAQ.png?x-amz-process=image/format,webp/quality,Q_80",
+    ],
   },
   {
     id: 5,
@@ -67,6 +71,8 @@ export default [
     brand: "Huawei",
     category: "smartphones",
     thumbnail: "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-    images: ["./src/assets/Images/huawei_p30.webp"],
+    images: [
+      "https://i.gadgets360cdn.com/products/large/1553612275_635_huawei_p30.jpg?downsize=*:360",
+    ],
   },
 ];
